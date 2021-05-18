@@ -1,6 +1,7 @@
 ### Hi there 👋
 
   Hello everyone, I´m Adrián Jiménez Olivo.
+  
     - 🔭 I’m currently looking for a job
     - 🌱 I’m currently learning at Core Code School - Cloud Native Web development bootcamp
     - 👯 I’m currently working on my project Spacio Scooter
