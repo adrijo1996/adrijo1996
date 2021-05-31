@@ -1,6 +1,6 @@
-### Hello everyone https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+### Hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  Hello everyone, I´m Adrián Jiménez Olivo.
+  I´m Adrián Jiménez Olivo
   
     - 🔭 I’m currently looking for a job
     - 🌱 I’m currently learning at Core Code School - Cloud Native Web development bootcamp
@@ -8,4 +8,3 @@
     - 📱 Call me at 609635933
     - 📫 How to reach me: adrijimenezolivo@gmail.com
     - 🛠️ Tools: Typescript, Next.js, Fastify, Javascript, Scrum, Agile, Docker, Kubernetes, MongoDB, Auth0
-    
