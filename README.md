@@ -2,9 +2,9 @@
   
   🙋‍♂️ I´m Adrián Jiménez Olivo
   
-  - 🤝 I´m actually open to work
+  - 🤝 I´m actually working on qualtio
  
-  - 👨‍🎓 I have recently finished my studies at Core Code School - <a href="https://www.corecode.school/">Cloud Native Web Development bootcamp</a>
+  - 👨‍🎓 I have finished my studies at Core Code School - <a href="https://www.corecode.school/">Cloud Native Web Development bootcamp</a>
   
   - 🏍️ I´m working on my project Spacio Scooter
   
@@ -12,7 +12,7 @@
   
   - 📞 Call me at 609635933
   
-  - 💻 Technologies: Typescript, Next.js, Fastify, Javascript, Scrum, Agile, Docker, Kubernetes, MongoDB, Auth0
+  - 💻 Technologies: Typescript, Next.js, Fastify, Javascript, Scrum, Agile, Docker, Kubernetes, MongoDB, Auth0, Jenkins, Sonar, Protractor
   
   - You can see my projects here:
  
