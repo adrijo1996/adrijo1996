@@ -10,8 +10,6 @@
   
   - 📫 How to reach me: adrijimenezolivo@gmail.com
   
-  - 📞 Call me at 609635933
-  
   - 💻 Technologies: Typescript, Next.js, Fastify, Javascript, Scrum, Agile, Docker, Kubernetes, MongoDB, Auth0, Jenkins, Sonar, Protractor
   
   - You can see my projects here:
